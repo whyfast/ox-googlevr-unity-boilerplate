@@ -1,4 +1,4 @@
-# googlevr-unity-boilerplate-ox
+# ox-googlevr-unity-boilerplate
 
 Included plugins
 
