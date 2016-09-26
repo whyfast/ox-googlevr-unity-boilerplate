@@ -1,8 +1,8 @@
 # ox-googlevr-unity-boilerplate
 
-Included plugins
+Included plugins:
 
-* GoogleVR (Cardboard, Daydream)
+* GoogleVR SDK for Unity v1.0.0 (Supports Android Cardboard, Android Daydream, and iOS Cardboard.)
 
 ## How to play
 
