@@ -2,7 +2,7 @@
 
 Included plugins:
 
-* GoogleVR SDK for Unity v1.0.0 (Supports Android Cardboard, Android Daydream, and iOS Cardboard.)
+* GoogleVR SDK for Unity v1.10.0, Dec 6 2016. Supports Android Cardboard, Android Daydream, and iOS Cardboard. https://github.com/googlevr/gvr-unity-sdk
 
 ## How to play
 
