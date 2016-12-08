@@ -1,8 +1,12 @@
 # ox-googlevr-unity-boilerplate
 
-A boilerplate to quickly start making VR content in Unity for Android and iOS devices.
+A boilerplate to quickly start making VR content in Unity for Android and iOS devices. I try to keep the GoogleVR SDK plugin up-to-date.
 
-Included plugins:
+## Requirements
+
+* Unity 5.5
+
+## Include Plugins
 
 * GoogleVR SDK for Unity v1.10.0, Dec 6 2016. Supports Android Cardboard, Android Daydream, and iOS Cardboard. https://github.com/googlevr/gvr-unity-sdk
 
